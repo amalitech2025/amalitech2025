@@ -63,7 +63,7 @@ Participants must:
 - ✅ Demonstrate innovation, clarity, and teamwork
 
 <p align="center">
-  <a href="https://github.com/YourUsername/YourProjectRepo" target="_blank">
+  <a href="https://github.com/amalitech2025/acmetech-status-dashboard" target="blank">
     <button style="
       background-color: orange;
       color: white;
