@@ -62,6 +62,27 @@ Participants must:
 - ✅ Implement core checks: security, reliability, cost optimization, performance efficiency, operational excellence
 - ✅ Demonstrate innovation, clarity, and teamwork
 
+<p align="center">
+  <a href="https://github.com/YourUsername/YourProjectRepo" target="_blank">
+    <button style="
+      background-color: orange;
+      color: white;
+      padding: 12px 24px;
+      font-size: 16px;
+      font-weight: bold;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    " 
+    onmouseover="this.style.backgroundColor='green'" 
+    onmouseout="this.style.backgroundColor='orange'">
+      🚀 View Project Repository
+    </button>
+  </a>
+</p>
+
+
 ---
 
 ## 🧩 Format & Timeline
