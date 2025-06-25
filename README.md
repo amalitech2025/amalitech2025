@@ -1,8 +1,9 @@
 <!-- README.md -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=orange+Code&weight=700&size=40&pause=1000&color=F71313&center=true&vCenter=true&width=800&lines=🔥+WELCOME+TO+AMALITECH+HACKATHON+2025!+🔥" alt="Welcome to AMALITECH Hackathon 2025" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFA500&center=true&vCenter=true&width=900&lines=🔥+WELCOME+TO+AMALITECH+HACKATHON+2025!+🔥" alt="Welcome to AMALITECH Hackathon 2025" />
 </h1>
+
 
 <p align="center">
   🎉 <strong>First official hackathon of the year!</strong> 🎉  
