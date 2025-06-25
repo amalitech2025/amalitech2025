@@ -66,8 +66,8 @@ Participants must:
 
 ## 🧩 Format & Timeline
 
-- **Team Size**: 1–5 members  
-- **Duration**: 3 hours  
+- **Team Size**: 1–6 members  
+- **Duration**: 6 hours  
 - **Submission**: Via GitHub + Demo video
 
 ---
