@@ -31,6 +31,46 @@ We are challenging YOU to brainstorm, build, and present an innovative cloud-bas
 
 <h3>1st Runner Up </h3>
 
+<style>
+    .container {
+      display: flex;
+      justify-content: center;
+      gap: 50px;
+      margin-top: 40px;
+      font-family: Arial, sans-serif;
+    }
+    .card {
+      text-align: center;
+      border: 1px solid #ccc;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      width: 180px;
+    }
+    .card img {
+      width: 80px;
+      height: 80px;
+    }
+    .title {
+      font-weight: bold;
+      margin-top: 10px;
+      font-size: 18px;
+    }
+  </style>
+
+  <div class="container">
+    <div class="card">
+      <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" alt="Winner">
+      <div class="title">🏆 Winner</div>
+      
+    </div>
+
+    <div class="card">
+      <img src="https://cdn-icons-png.flaticon.com/512/2583/2583346.png" alt="1st Runner Up">
+      <div class="title">🥈 1st Runner Up</div>
+    </div>
+  </div>
+
 ---
 
 ## 📋 Requirements & Evaluation Criteria
