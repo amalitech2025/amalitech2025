@@ -26,6 +26,16 @@ We are challenging YOU to brainstorm, build, and present an innovative cloud-bas
 ## 🏆 Prizes & Recognition
 
 <div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="80"/>
+  <h3>🏆 Winner</h3>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2583/2583346.png" width="80"/>
+  <h3>🥈 1st Runner Up</h3>
+</div>
 
 <img src="https://cdn-icons-png.flaticon.com/512/2583/2583346.png" width="80"/>
 
