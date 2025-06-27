@@ -29,29 +29,7 @@ We are challenging YOU to brainstorm, build, and present an innovative cloud-bas
 
 <img src="https://cdn-icons-png.flaticon.com/512/2583/2583346.png" width="80"/>
 
-<h3>Top 3 Teams Will Win:</h3>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/3477/3477419.png" width="100"/><br/>
-      <strong>🥇 1st Place</strong><br/>
-      Gold Trophy + Swag + Internship Offer
-    </td>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/3477/3477433.png" width="90"/><br/>
-      <strong>🥈 2nd Place</strong><br/>
-      Silver Trophy + Swag
-    </td>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/3477/3477446.png" width="80"/><br/>
-      <strong>🥉 3rd Place</strong><br/>
-      Bronze Trophy + Swag
-    </td>
-  </tr>
-</table>
-
-</div>
+<h3>1st Runner Up </h3>
 
 ---
 
