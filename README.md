@@ -58,17 +58,11 @@ We are challenging YOU to brainstorm, build, and present an innovative cloud-bas
     }
   </style>
 
-  <div class="container">
-    <div class="card">
-      <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" alt="Winner">
-      <div class="title">🏆 Winner</div>
-      
-    </div>
+  
 
     <div class="card">
       <img src="https://cdn-icons-png.flaticon.com/512/2583/2583346.png" alt="1st Runner Up">
       <div class="title">🥈 1st Runner Up</div>
-    </div>
   </div>
 
 ---
